@@ -466,7 +466,7 @@ Anki 形式のフラッシュカード データベース: https://ankiweb.net/s
 - [x] [ハーバード CS50 - 漸近記法 (動画)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [x] [Big O Notations (一般的なクイック チュートリアル) (動画)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [x] [Big O Notation (およびオメガとシータ) - 最良の数学的説明 (動画)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [スキエナ](https://www.youtube.com/watch?v=z1mkCe3kVUA)
+- [x] [スキエナ](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [カリフォルニア大学バークレー校ビッグオー (動画)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [償却分析 (動画)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] TopCoder (漸化式とマスター定理を含む):
